@@ -1,4 +1,4 @@
-# Universal AutoML
+# Universal AutoML for Tabular Data
 
 ## Overview
 Universal AutoML is a Python-based automated machine learning (AutoML) system that detects the problem type (classification, regression, clustering, or anomaly detection) and applies suitable machine learning models using AutoSklearn, KMeans, or IsolationForest. It also includes data preprocessing features such as handling missing values, encoding categorical variables, and normalizing numerical data.
